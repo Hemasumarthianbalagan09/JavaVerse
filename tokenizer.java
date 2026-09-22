@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.StringTokenizer;
-public class Tokenizer {
+public class tokenizer {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a sentence: ");
